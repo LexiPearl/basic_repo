@@ -1,0 +1,4 @@
+House: Gryffindor
+Patronus: Unknown
+Color: Red
+Pet: Owl
